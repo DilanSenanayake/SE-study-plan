@@ -1,0 +1,3 @@
+cd C:\Users\Dilan\AppData\Roaming\Python\Python310\site-packages\labelImg
+
+C:\Users\Dilan\AppData\Roaming\Python\Python310\site-packages\labelImg>python labelImg.py
