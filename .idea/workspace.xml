@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd59e0e2-a932-4b47-b041-1478a8588534" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Spring Boot/src/main/java/com/example/Test/CustomExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Boot/src/main/java/com/example/Test/Exceptions.java" afterDir="false" />
+    <list default="true" id="fd59e0e2-a932-4b47-b041-1478a8588534" name="Changes" comment="Exceptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,11 +173,20 @@
       <option name="project" value="LOCAL" />
       <updated>1692670351225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exceptions">
+      <option name="closed" value="true" />
+      <created>1692752011494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692752011495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
   </component>
 </project>
